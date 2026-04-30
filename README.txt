@@ -15,3 +15,10 @@ Changes:
 
 Known Limitations:
 - Pushing a shielded monster directly into level geometry (walls, corners, etc.) will still result in an instant kill (e.g., when Using the Disc of Repulsion). This is a limitation of the engine's collision handling with multiple solid parts and is currently considered acceptable behavior.
+
+Related Projects:
+-----------------
+- Findus Patch: https://github.com/Predictabowl/Walpurgis_Findus_Patch_repo
+- No Shield Frag: https://github.com/Predictabowl/Walpurgis_Findus_NoShieldFrag_repo
+- Faithless Trilogy Compatibility: https://github.com/Predictabowl/Walpurgis_Findus_Faith_Tri_repo
+
